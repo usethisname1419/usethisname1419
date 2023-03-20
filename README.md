@@ -17,3 +17,8 @@ ETH 0xC8Fe91c40F5A82597de04048D745BFe22f5270b3
 
 PayPal
 https://www.paypal.me/ebachsolutions
+
+Buy me a coffee
+https://www.buymeacoffee.com/Corexital
+
+Get the hint I'm broke!! Help
