@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @usethisname1419
-- 👀 I’m interested in ... Pentesting, The interwebs, Network admin
-- 🌱 I’m currently learning ...I have just started usig computers due to lengthy stay in a federal institution, Im learning Pentesting on Kali linix and programming,I am currently undertaking rainbow tables to issues in local Networks 
-- 💞️ I’m looking to collaborate on ... I am looking to exhange resources and develop phishing to arrise awareness of how easy it is for people to loose their informations. I am also very good at photoshop and digital art. I have found many apps that can be easily verified with photoshop images.
-- 📫 How to reach me ...usethisemail1990@protonmail.com
+My name is Derek Johnston and I'm a self taught programmer. I've been using 
+Computers for only about a year because I was in prison for 10 years. Ive 
+Dedicated myself to stop bad actors and stop cyber criminals. I'm studying cyber
+Security to get myself certified, to help me find a job in IT and Tech.
 
-<!---
-usethisname1419/usethisname1419 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I put everything I have into tuition and hopefully I can find work.
+If you can work with me to help me build these tools
+
+If you have any work available I will work for $10 per hour
+dereksamjohnston@gmail.com
+
+
+Donations are welcome and appreciated, I put all my money into school and my wife is 
+Pregnant and I have no job
+
+ETH 0xC8Fe91c40F5A82597de04048D745BFe22f5270b3
+
+PayPal
+https://www.paypal.me/ebachsolutions
