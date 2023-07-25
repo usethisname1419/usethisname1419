@@ -1,5 +1,5 @@
-corexital
+My name is Derek J.
 
+I am a cybersecurity expert and the owner of https://learn2hack.io
 
-
-https://corexitaldata.com
+I make hacking, OSINT, and security scripts
