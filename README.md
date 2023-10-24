@@ -10,7 +10,7 @@
 
     BTC: bc1qwcgr36jpxuaklnq50ma2h4sew3yuyyn6njy3n5
     ETH: 0xB139a7f6A2398fd4F50BbaC9970da8BE57E6F539
-    PayPal: Donate Here
+PayPal: https://www.paypal.com/donate/?hosted_button_id=R5RAM9VH2DH44
 
 🤝 I'm open to collaborations and opportunities. Feel free to reach out via email at dereksamjohnston@gmail.com.
 
